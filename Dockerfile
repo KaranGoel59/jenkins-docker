@@ -14,5 +14,5 @@ RUN curl -L "https://github.com/docker/compose/releases/download/1.25.4/docker-c
  chmod +x /usr/local/bin/docker-compose
 
 
-user jenkins
+USER jenkins
 
